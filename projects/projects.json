@@ -1,0 +1,67 @@
+[
+  {
+    "name": "AI Trip Planner",
+    "desc": "A dynamic web application using React for seamless trip planning, integrating various APIs like Place API and Gemini API.",
+    "image": "aitripplanner",
+    "category": "react",
+    "links": {
+      "view": "https://ai-trip-planner-vnmr.vercel.app/",
+      "code": "https://github.com/yashr04/ai-trip-planner"
+    }
+  },
+  {
+    "name": "EnableEdu",
+    "desc": "A comprehensive Learning Management System (LMS) designed for differently abled students. ",
+    "image": "enableedulms",
+    "category": "fullstack",
+    "links": {
+      "view": "https://enable-edu-lms.vercel.app/",
+      "code": "https://github.com/yashr04/Enable-Edu-LMS"
+    }
+  },
+  
+  {
+    "name": "Smart Attendance System",
+    "desc": "An automated attendance management system using Python and OpenCV for facial recognition.",
+    "image": "smartattendancesystem",
+    "category": "python",
+    "links": {
+      "view": "https://github.com/yashr04/Smart-Attendance-System",
+      "code": "https://github.com/yashr04/Smart-Attendance-System"
+    }
+  },
+  
+  {
+    "name": "Perfect Pair",
+    "desc": "A wedding planner tool website featuring vendor management, budget calculator, and theme selection, built using the MERN stack.",
+    "image": "perfectpair",
+    "category": "fullstack",
+    "links": {
+      "view": "https://perfect-pair.vercel.app/",
+      "code": "https://github.com/yashr04/perfect-pair"
+    }
+  },
+  
+  {
+    "name": "Battle Grid",
+    "desc": "It is a local multiplayer advanced chess like game built using HTML, CSS and Javascript.",
+    "image": "battlegrid",
+    "category": "frontend",
+    "links": {
+      "view": "https://battle-grid.vercel.app/",
+      "code": "https://github.com/yashr04/battle-grid"
+    }
+  },
+  {
+    "name": "NextToDo",
+    "desc": "A task management web app with features like sub-tasks, filtering, and local storage, built using HTML, CSS, and JavaScript.",
+    "image": "nexttodo",
+    "category": "frontend",
+    "links": {
+      "view": "https://to-do-list-bay-delta.vercel.app/",
+      "code": "https://github.com/yashr04/To-Do-List"
+    }
+  }
+  
+  
+]
